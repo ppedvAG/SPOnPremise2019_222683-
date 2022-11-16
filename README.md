@@ -36,3 +36,19 @@
 ## Workflows
 ### mit SP Designer
 ### Vorlagen
+
+
+## Email
+### eingehende Email ausgehende Email
+
+### Dienste in Farm verteilen nach Rollenkonpzept
+
+
+## BDC
+## einbinden von SQL Daten als Liste und Spalten
+
+
+### Appverwaltung
+
+
+### Appverwaltung
