@@ -31,6 +31,12 @@
 
 ## Aktivierung Visiodienst
 
+## Backup Restore
+### stsadm
+### Powershell
+### Rstore nicht angefügter DB
+### Verschieben einer Website in andere DB
+
 
 
 ## Workflows
